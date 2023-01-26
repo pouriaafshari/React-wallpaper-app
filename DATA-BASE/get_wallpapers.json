@@ -2,69 +2,53 @@
     "wallpapers": [
  
        {
-          "id": "01",
-          "member": "Karina",
-          "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
+            "id": "0",
+            "member": "Karina",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
        },
 
        {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
+            "id": "1",
+            "member": "Karina",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0.jpg"
        },
 
        {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
+            "id": "2",
+            "member": "Karina",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/1.jpg"
        },
 
        {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
+            "id": "3",
+            "member": "Giselle",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Giselle/0.jpg"
        },
 
        {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
+            "id": "4",
+            "member": "Giselle",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Giselle/1.jpg"
        },
 
        {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
-       },
+            "id": "5",
+            "member": "All",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/All/0.jpg"
+        },
 
-       {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
-       },
+        {
+            "id": "6",
+            "member": "All",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/All/1.jpg"
+        },
 
-       {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
-       },
+        {
+            "id": "7",
+            "member": "Winter",
+            "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Winter/0.jpg"
+        },
 
-       {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
-       },
-
-       {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
-       },
-
-       {
-        "id": "01",
-        "member": "Karina",
-        "url": "https://pouriaafshari.github.io/React-wallpaper-app/DATA-BASE/AespaWallpapers/Karina/0600a550bccb6c765180d32348be79a9.jpg"
-       }
+            
     ]
  }
